@@ -1,0 +1,24 @@
+GENERAL BUGS:
+
+1) Doesnot show Message notifications....
+2) Change 'Forget password' to "Forgot password".
+3) Terms and Service portion should  be highlighted..
+4) cannot change profile details.
+
+
+ENHANCEMENT SECTION..
+1) Include email option in signup page
+2) Message interface is unattractive..
+3) Need good UI/UX interface for app.
+
+
+
+Technical bugs:
+1) cannot post anything like pictures, videos 
+2) cannot access camera using the app.
+3) upon sending video , it doesnot show in message chats.
+4) cannot access (+) button.
+5)The reels shared by other social media platforms dosenot open in browser.
+6) glitches in trending section..
+7) My photos and videos dont get stored to my account page.
+8)The app takes unnecessary time to load..
